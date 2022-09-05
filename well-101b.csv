@@ -1,4 +1,4 @@
-,result,table,_start,_stop,_time,Value (psi),_field,_measurement,wellname
+,result,table,_start,_stop,date,Value (psi),_field,_measurement,wellname
 ,,0,2022-09-05T20:43:48.018089172Z,2022-09-05T23:43:48.018089172Z,2022-09-05T20:43:50Z,154.053,Tubing Pressure,sensors,101
 ,,0,2022-09-05T20:43:48.018089172Z,2022-09-05T23:43:48.018089172Z,2022-09-05T20:43:51Z,153.992,Tubing Pressure,sensors,101
 ,,0,2022-09-05T20:43:48.018089172Z,2022-09-05T23:43:48.018089172Z,2022-09-05T20:43:52Z,154.053,Tubing Pressure,sensors,101
