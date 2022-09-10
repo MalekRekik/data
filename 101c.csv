@@ -1,7 +1,4 @@
-#group,false,false,true,true,false,false,true,true,true
-#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string
-#default,last,,,,,,,,
-,result,table,_start,_stop,_time,_value,_field,_measurement,wellname
+,result,table,_start,_stop,date,Value (psi),_field,_measurement,wellname
 ,,0,2022-09-10T09:18:44.609025947Z,2022-09-10T15:18:44.609025947Z,2022-09-10T09:27:20Z,10,Mode,eventMode,101
 ,,0,2022-09-10T09:18:44.609025947Z,2022-09-10T15:18:44.609025947Z,2022-09-10T09:29:12Z,30,Mode,eventMode,101
 ,,0,2022-09-10T09:18:44.609025947Z,2022-09-10T15:18:44.609025947Z,2022-09-10T09:34:39Z,20,Mode,eventMode,101
