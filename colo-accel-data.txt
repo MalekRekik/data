@@ -1,4 +1,4 @@
-time raw smootha velocity direction smoothv
+time raw smootha velocity direction smoothv a b
 31635 934.00 0.00 0.00 1000.00 0.00 935.91 -1.27 
 31652 950.00 0.00 0.00 1000.00 0.00 939.43 -0.67 
 31669 961.00 0.00 0.00 1000.00 0.00 944.83 0.09 
